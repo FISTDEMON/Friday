@@ -6,7 +6,7 @@ Friday is a voice-controlled AI assistant developed using Python. It utilizes va
 
 - Voice recognition: Friday can understand and process voice commands using the SpeechRecognition library.
 - Text-to-speech: Friday can respond to queries and provide information using the pyttsx3 library.
-- Web browsing: Friday can open websites using the webbrowser module.
+- Web browsing: Friday can open websites using the web browser module.
 - Conversational AI: Friday can engage in conversations and provide intelligent responses using OpenAI's GPT-3 model.
 - Task automation: Friday can perform tasks like playing music, telling the time, and providing weather information.
 
